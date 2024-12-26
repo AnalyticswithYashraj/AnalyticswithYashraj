@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnalyticswithYashraj(Yashraj Singh
+- 👋 Hi, I’m @AnalyticswithYashraj(Yashraj Singh)
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Data Analytics and Data Science
 - 💞️ I’m looking to collaborate on Projects on the same
