@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Data Analytics and Data Science
 - 💞️ I’m looking to collaborate on Projects on the same
 - 📫 How to reach me - yashrajsingh27@outlook.com
-- 😄 Pronouns:Male/Mard.
 - ⚡ Fun fact:I am a Bcom grad. I used to run away from coding and tech related job.so, please help me do something in tech.
 
 <!---
